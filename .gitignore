@@ -1,0 +1,13 @@
+.py[cod]
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.pdm-python
+.venv/
+
+# Sphinx auto-generated builds
+_build/
+
+_templates/
+_static/
